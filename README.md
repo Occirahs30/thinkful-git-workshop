@@ -56,8 +56,6 @@ ___
 [Praketa Saxena](https://github.com/kethsaxena)<br/>
 [Vsevolod Zhoha](https://github.com/ZhohaVs/)<br/>
 Elif Demir
-
-Occirahs30
-
+[Occirahs30](https://github.com/Occirahs30)<br/>
 [Thanks, Chris!](https://www.thinkful.com/join/sign-up/)<br/>
 
